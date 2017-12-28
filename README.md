@@ -1,6 +1,6 @@
 # BEYOND - Server 1.10.2
-<p align="center">
 [![Discord](https://img.shields.io/badge/Support-Discord-7289DA.svg)](http:discord.heberon.com)
+<p align="center">
     <a href="https://twitter.com/intent/follow?screen_name=HeberonYT">
     <img src="https://img.shields.io/twitter/follow/HeberonYT.svg?style=social" alt="follow on Twitter"></a>
 </p>

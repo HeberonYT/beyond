@@ -1,5 +1,10 @@
 # BEYOND - Server 1.10.2
+<p align="center">
 [![Discord](https://img.shields.io/badge/Support-Discord-7289DA.svg)](http:discord.heberon.com)
+    <a href="https://twitter.com/intent/follow?screen_name=HeberonYT">
+    <img src="https://img.shields.io/twitter/follow/HeberonYT.svg?style=social" alt="follow on Twitter"></a>
+</p>
+
 Pagina Oficial para reportar y solucionar problemas del servidor público.
 
 Importante: Para agilizar el procedimiento, desde el principio deberá publicar en imágenes o videos las pruebas relacionadas con su reporte, así se responderá lo antes posible.
